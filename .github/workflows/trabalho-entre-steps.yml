@@ -19,4 +19,4 @@ jobs:
         run: ls -lha
 
       - name: Le conteudo do arquivo
-        run: mensagem.txt
+        run: cat mensagem.txt
